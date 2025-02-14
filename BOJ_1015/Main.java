@@ -1,7 +1,9 @@
+package BOJ_1015;
+
 import java.io.*;
 import java.util.*;
 
-public class BOJ_1015 {
+public class Main {
     public static void main(String[] args) throws IOException {
         /*
         * 주어진 배열의 각 원소의 값과 인덱스를 Entry로 만들어 리스트에 넣는다.
